@@ -1,0 +1,1340 @@
+Make,Model,Condition,Price,Year,Body_Type,Fuel_Type,Enginer_Size,Fuel_Consumption,Acceleration,GearBox,DriveTrain,CO2_Emissions,Doors,Seats,Annual_Tax
+ABARTH,PUNTO EVO,Used,10490,2010,Hatchback,Petrol,1.4L,47.1 mpg,7.9,Manual,,142,3 doors,5 seats,155
+AUDI,TTS,Used,35495,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,140
+ABARTH,PUNTO EVO,Used,10000,2010,Hatchback,Petrol,1.4L,46.3 mpg,,Manual,,142,3 doors,5 seats,155
+AUDI,TTS,Nearly New,38450,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,140
+AUDI,TTS,Nearly New,37995,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,140
+AUDI,TTS,Nearly New,36881,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,140
+ABARTH,PUNTO EVO,Used,10000,2010,Hatchback,Petrol,1.4L,46.3 mpg,,Manual,,142,3 doors,5 seats,155
+AUDI,TTS,Used,18995,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,27499,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,18800,2008,Convertible,Petrol,2.0L,34.9 mpg,5.7,Manual,quattro,189,2 doors,2 seats,
+AUDI,TTS,Used,22360,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,230
+AUDI,TTS,Used,18950,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,18600,2008,Coupe,Petrol,2.0L,35.8 mpg,5.5,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,18495,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,28800,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,27499,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,29490,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,29000,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,28990,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,28980,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,230
+AUDI,TTS,Used,28490,2014,Convertible,Petrol,2.0L,39.8 mpg,4.9,Automatic,quattro,163,2 doors,4 seats,140
+AUDI,TTS,Used,28290,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,
+AUDI,TTS,Used,28195,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,230
+AUDI,TTS,Used,28102,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,24940,2015,Coupe,Petrol,2.0L,,,Manual,,168,2 doors,4 seats,230
+AUDI,TTS,Used,28380,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,230
+AUDI,TTS,Used,27499,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,24495,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,
+AUDI,TTS,Used,23950,2015,Coupe,Petrol,2.0L,,,Manual,,,2 doors,,
+AUDI,TTS,Used,24500,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,24194,2014,Convertible,Petrol,2.0L,38.7 mpg,5.2,Manual,quattro,169,2 doors,2 seats,230
+AUDI,TTS,Used,23450,2014,Coupe,Petrol,2.0L,39.2 mpg,4.9,Manual,quattro,168,3 doors,4 seats,230
+AUDI,TTS,Used,22950,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,21989,2014,Convertible,Petrol,2.0L,38.7 mpg,5.2,Manual,quattro,169,2 doors,2 seats,195
+AUDI,TTS,Used,20995,2014,Convertible,Petrol,2.0L,40.9 mpg,4.9,Automatic,quattro,159,2 doors,2 seats,195
+AUDI,TTS,Used,26995,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,25000,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,24500,2014,Convertible,Petrol,2.0L,38.7 mpg,5.2,Manual,quattro,169,2 doors,2 seats,230
+AUDI,TTS,Used,26480,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,27950,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,27750,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,27572,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,28495,2014,Coupe,Petrol,2.0L,38.7 mpg,4.9,Manual,quattro,168,2 doors,4 seats,230
+AUDI,TTS,Used,28000,2014,Convertible,Petrol,2.0L,39.8 mpg,4.9,Automatic,quattro,163,2 doors,4 seats,195
+AUDI,TTS,Used,27750,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,4 seats,195
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,17000,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,16995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,16495,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,16995,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,16000,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,16750,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,17989,2014,Coupe,Petrol,2.0L,40.9 mpg,4.6,Automatic,quattro,159,3 doors,2 seats,195
+AUDI,TTS,Used,17995,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,17445,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,17445,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,17000,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,17750,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,17950,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,14000,2008,Coupe,Petrol,2.0L,34.9 mpg,5.4,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,13999,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,15989,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,184,3 doors,4 seats,
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,15000,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,14000,2008,Coupe,Petrol,2.0L,34.9 mpg,5.4,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,14820,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,14980,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,14495,2008,Coupe,Petrol,2.0L,34.9 mpg,5.4,Manual,quattro,184,3 doors,4 seats,
+AUDI,TTS,Used,14750,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,15000,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,14489,2008,Convertible,Petrol,2.0L,35.8 mpg,5.5,Automatic,quattro,184,2 doors,2 seats,
+AUDI,TTS,Used,15000,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,13995,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,13990,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,13975,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,13690,2008,Coupe,Petrol,2.0L,34.9 mpg,5.4,Manual,quattro,184,3 doors,4 seats,290
+AUDI,TTS,Used,13950,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,13000,2008,Convertible,Petrol,2.0L,,5.6,Manual,quattro,189,2 doors,2 seats,290
+AUDI,TTS,Used,15200,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,15399,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,15133,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,15950,2008,Convertible,Petrol,2.0L,34.9 mpg,5.7,Manual,quattro,189,2 doors,2 seats,290
+AUDI,TTS,Used,15995,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,15989,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,184,3 doors,4 seats,
+AUDI,TTS,Used,15749,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,15000,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,13995,2008,Convertible,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,2 doors,2 seats,250
+AUDI,TTS,Used,12955,2008,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,10985,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,11999,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,11990,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,11950,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,11750,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,11500,2008,Convertible,Petrol,2.0L,34.4 mpg,5.6,Manual,quattro,194,2 doors,2 seats,
+AUDI,TTS,Used,11495,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,11495,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,290
+AUDI,TTS,Used,10999,2008,Coupe,Petrol,2.0L,34.9 mpg,5.4,Manual,quattro,184,3 doors,4 seats,250
+AUDI,TTS,Used,10950,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,10450,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,10995,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,12777,2008,Coupe,Petrol,2.0L,36.7 mpg,5.3,Automatic,quattro,179,3 doors,4 seats,250
+AUDI,TTS,Used,12195,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,9500,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,9995,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,9980,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,9795,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,9750,2008,Convertible,Petrol,2.0L,34.4 mpg,5.6,Manual,quattro,194,2 doors,2 seats,290
+AUDI,TTS,Used,9575,2008,Convertible,Petrol,2.0L,34.4 mpg,5.6,Manual,quattro,194,2 doors,2 seats,290
+AUDI,TTS,Used,9500,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8990,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8000,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8995,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,290
+AUDI,TTS,Used,8990,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,290
+AUDI,TTS,Used,8000,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,7995,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8989,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8000,2008,Convertible,Petrol,2.0L,34.4 mpg,5.6,Manual,quattro,194,2 doors,2 seats,290
+AUDI,TTS,Used,7989,2008,Convertible,Petrol,2.0L,35.3 mpg,5.4,Automatic,quattro,190,2 doors,2 seats,290
+AUDI,TTS,Used,8641,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,
+AUDI,TTS,Used,8490,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+AUDI,TTS,Used,8000,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,250
+AUDI,TTS,Used,8000,2008,Convertible,Petrol,2.0L,34.4 mpg,5.6,Manual,quattro,194,2 doors,2 seats,290
+AUDI,TTS,Used,8290,2008,Coupe,Petrol,2.0L,35.8 mpg,5.2,Automatic,quattro,188,3 doors,4 seats,290
+AUDI,TTS,Used,6999,2008,Coupe,Petrol,2.0L,35.3 mpg,5.4,Manual,quattro,191,3 doors,4 seats,290
+ABARTH,PUNTO EVO,Used,8500,2010,Hatchback,Petrol,1.4L,46.3 mpg,,Manual,,142,3 doors,5 seats,155
+AUDI,TT RS,Used,40900,2016,Convertible,Petrol,2.5L,34.0 mpg,3.8,Automatic,quattro,189,2 doors,2 seats,290
+AUDI,TT RS,Nearly New,47990,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,140
+AUDI,TT,Used,31000,2014,Coupe,Diesel,2.0L,52.3 mpg,6.7,Automatic,quattro,142,3 doors,4 seats,140
+AUDI,TT,Nearly New,30990,2018,Coupe,Diesel,2.0L,,,Manual,,124,3 doors,4 seats,140
+AUDI,TT,Used,31000,2014,Coupe,Diesel,2.0L,52.3 mpg,6.7,Automatic,quattro,142,3 doors,4 seats,140
+AUDI,TT,Nearly New,30466,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,140
+AUDI,TT,Nearly New,30450,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,30000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,140
+AUDI,TT RS,Nearly New,48990,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,140
+AUDI,TT RS,Nearly New,46995,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,140
+AUDI,TT RS,Nearly New,48900,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,140
+AUDI,TT,Nearly New,47990,2019,Convertible,Petrol,2.0L,,,Automatic,,,2 doors,,140
+AUDI,TT RS,Nearly New,47990,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,140
+AUDI,TT RS,Nearly New,45750,2016,Convertible,Petrol,2.5L,34.0 mpg,3.9,Automatic,quattro,189,2 doors,4 seats,140
+AUDI,TT,New,45634,,Coupe,Petrol,2.0L,,,Automatic,,,3 doors,4 seats,
+AUDI,TT,Nearly New,47990,2019,Convertible,Petrol,2.0L,,,Automatic,,,2 doors,,140
+AUDI,TT,New,45300,2019,Coupe,Petrol,2.0L,,5.2,Automatic,quattro,161,3 doors,4 seats,
+AUDI,TT,Used,25000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,140
+AUDI,TT,Used,24844,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,28750,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29946,2014,Convertible,Petrol,2.0L,42.2 mpg,6.1,Automatic,,155,2 doors,4 seats,140
+AUDI,TT,Nearly New,30000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,140
+AUDI,TT,Nearly New,29990,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29500,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,24844,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Nearly New,29450,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29000,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29775,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,28980,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,140
+AUDI,TT,Nearly New,28495,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,140
+AUDI,TT,Nearly New,29775,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29775,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,28495,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,140
+AUDI,TT,Used,27995,2017,Convertible,Petrol,2.0L,,,Automatic,,,2 doors,,
+AUDI,TT,Nearly New,28450,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,27980,2014,Convertible,Petrol,1.8L,46.3 mpg,7.2,Manual,,142,2 doors,4 seats,140
+AUDI,TT,Used,27500,2015,Coupe,Petrol,2.0L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,27990,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,158,2 doors,4 seats,140
+AUDI,TT,Nearly New,29775,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,28750,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Nearly New,29775,2014,Coupe,Petrol,1.8L,47.9 mpg,7.0,Automatic,,133,3 doors,4 seats,140
+AUDI,TT,Used,27480,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,140
+AUDI,TT,Nearly New,25000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,26000,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Nearly New,26500,2014,Convertible,Petrol,1.8L,47.1 mpg,7.3,Automatic,,136,2 doors,4 seats,140
+AUDI,TT,Used,26000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,26000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,25495,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,,2 doors,2 seats,
+AUDI,TT,Used,25750,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,19994,2012,Coupe,Petrol,2.5L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,19994,2012,Coupe,Petrol,2.5L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,19690,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,16490,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,18995,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,18000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,18000,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,18000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,18990,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,18000,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,19994,2012,Coupe,Petrol,2.5L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,18950,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,18985,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,18750,2014,Coupe,Petrol,2.0L,47.9 mpg,6.0,Manual,,137,3 doors,4 seats,
+AUDI,TT,Used,18980,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,19994,2012,Coupe,Petrol,2.5L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,23500,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,158,2 doors,2 seats,
+AUDI,TT,Used,24895,2014,Convertible,Petrol,2.0L,42.2 mpg,5.6,Automatic,quattro,154,2 doors,2 seats,195
+AUDI,TT,Used,23413,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23500,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,140
+AUDI,TT,Used,23495,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,158,2 doors,2 seats,195
+AUDI,TT,Used,23999,2017,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,23495,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23500,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23500,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,24844,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,23491,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23900,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23802,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23900,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,140
+AUDI,TT,Used,23494,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23773,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,23736,2016,Convertible,Petrol,2.0L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,23791,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23749,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23750,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,23490,2014,Convertible,Petrol,1.8L,46.3 mpg,7.2,Manual,,142,2 doors,2 seats,155
+AUDI,TT,Used,24850,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23790,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23444,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,140
+AUDI,TT,Used,23750,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23352,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23000,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,22994,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23050,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,24850,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22995,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,22990,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,22989,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,22989,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,140
+AUDI,TT,Used,22980,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22975,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,22900,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,
+AUDI,TT,Used,22920,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,19000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,23999,2017,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,22790,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,22736,2015,Coupe,Petrol,2.0L,,,Manual,,168,2 doors,4 seats,230
+AUDI,TT,Used,22700,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,22750,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,158,2 doors,2 seats,195
+AUDI,TT,Used,22691,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,22650,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,195
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,20000,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,21250,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,21250,2014,Convertible,Diesel,2.0L,61.4 mpg,7.3,Manual,,120,2 doors,2 seats,30
+AUDI,TT,Used,21250,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,21000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,21000,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,20995,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,140
+AUDI,TT,Used,20950,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,
+AUDI,TT,Used,20995,2014,Coupe,Petrol,2.0L,47.9 mpg,6.0,Manual,,137,3 doors,4 seats,140
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,154,2 doors,2 seats,195
+AUDI,TT,Used,20900,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23994,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,154,2 doors,2 seats,195
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,,2 doors,2 seats,
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,40.9 mpg,5.6,Automatic,quattro,154,2 doors,2 seats,195
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,18750,2014,Coupe,Petrol,2.0L,47.9 mpg,6.0,Manual,,137,3 doors,4 seats,
+AUDI,TT,Used,18990,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,24895,2014,Convertible,Petrol,2.0L,42.2 mpg,5.6,Automatic,quattro,154,2 doors,2 seats,195
+AUDI,TT,Used,18500,2014,Coupe,Petrol,2.0L,47.9 mpg,6.0,Manual,,137,3 doors,4 seats,140
+AUDI,TT,Used,24850,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,18500,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,18499,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,24990,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,18500,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,18350,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,21499,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,20804,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,18364,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,18000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,20500,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,20750,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,20495,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,20250,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,20190,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23999,2017,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,21450,2014,Coupe,Petrol,2.0L,43.5 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,20295,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,20750,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,140
+AUDI,TT,Used,20000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23950,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23550,2014,Coupe,Petrol,2.0L,42.8 mpg,5.3,Automatic,quattro,153,3 doors,4 seats,195
+AUDI,TT,Used,23000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,23499,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,
+AUDI,TT,Used,22750,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,22995,2016,Convertible,Petrol,,,,Automatic,,,2 doors,,
+AUDI,TT,Used,23000,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,23000,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Coupe,Petrol,2.0L,43.5 mpg,5.9,Automatic,,150,3 doors,4 seats,155
+AUDI,TT,Used,22500,2014,Convertible,Petrol,2.0L,45.6 mpg,6.2,Manual,,144,2 doors,2 seats,140
+AUDI,TT,Used,12995,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,14495,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,12990,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,
+AUDI,TT,Used,12995,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,16000,2014,Convertible,Diesel,2.0L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,16000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,17000,2014,Coupe,Diesel,2.0L,60.1 mpg,7.1,Manual,,117,3 doors,4 seats,30
+AUDI,TT,Used,17000,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,16995,2014,Convertible,Petrol,2.0L,,,Automatic,,,2 doors,,
+AUDI,TT,Used,17000,2014,Coupe,Petrol,2.0L,46.3 mpg,6.0,Manual,,141,3 doors,4 seats,155
+AUDI,TT,Used,16000,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,14790,2006,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,14795,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,14670,2006,Convertible,Petrol,1.8L,42.8 mpg,7.4,Automatic,,152,2 doors,2 seats,195
+AUDI,TT,Used,14500,2006,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,15000,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,15000,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,14995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,14995,2006,Convertible,Petrol,2.0L,39.2 mpg,6.2,Automatic,,168,2 doors,2 seats,230
+AUDI,TT,Used,15000,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,14995,2006,Coupe,Petrol,2.0L,42.8 mpg,6.2,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,14995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14499,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14495,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,14990,2006,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,14450,2013,Convertible,Petrol,2.0L,,,Manual,,,2 doors,,
+AUDI,TT,Used,12995,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,12800,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,12950,2006,Convertible,Diesel,2.0L,50.4 mpg,7.7,Automatic,quattro,146,2 doors,2 seats,155
+AUDI,TT,Used,12495,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,12498,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,12490,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,14480,2006,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,12250,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,12290,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,12250,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,12995,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,12000,2006,Coupe,Petrol,2.0L,,6.0,Automatic,,164,3 doors,4 seats,195
+AUDI,TT,Used,8995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,8995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11800,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11990,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,
+AUDI,TT,Used,11000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11000,2006,Convertible,Diesel,2.0L,51.4 mpg,7.7,Manual,,144,2 doors,2 seats,
+AUDI,TT,Used,11000,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,11000,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11000,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,11995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,12000,2006,Coupe,Petrol,2.0L,,6.0,Automatic,,164,3 doors,4 seats,195
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,
+AUDI,TT,Used,11995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11990,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11995,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11000,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,11490,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11790,2006,Convertible,Diesel,2.0L,51.4 mpg,7.7,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,11488,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14431,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11480,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,14420,2006,Convertible,Petrol,2.0L,42.2 mpg,6.3,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,14395,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14300,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14100,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,14385,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,14199,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,16995,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,14000,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,16995,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,16642,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,16799,2014,Coupe,Petrol,1.8L,47.1 mpg,6.9,Manual,,138,3 doors,4 seats,140
+AUDI,TT,Used,16642,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,16010,2014,Coupe,Petrol,2.0L,44.1 mpg,5.3,Automatic,quattro,149,3 doors,4 seats,155
+AUDI,TT,Used,16460,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,16642,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,12995,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,14000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,14680,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,14995,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,14740,2014,Coupe,Diesel,2.0L,67.3 mpg,7.1,Manual,,110,3 doors,4 seats,20
+AUDI,TT,Used,14680,2014,Coupe,Diesel,2.0L,62.8 mpg,7.1,Manual,,116,3 doors,4 seats,30
+AUDI,TT,Used,14750,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,14480,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,14000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,14500,2006,Coupe,Petrol,2.0L,35.8 mpg,5.4,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,13999,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13375,2006,Convertible,Diesel,2.0L,,9.3,Automatic,,146,2 doors,2 seats,155
+AUDI,TT,Used,13375,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,13350,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13190,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,13274,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13100,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13000,2006,Coupe,Petrol,2.0L,42.8 mpg,6.2,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,13000,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,13000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,
+AUDI,TT,Used,14000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13999,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,13790,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13722,2006,Convertible,Petrol,2.0L,38.2 mpg,5.8,Automatic,quattro,172,2 doors,2 seats,230
+AUDI,TT,Used,13497,2006,Coupe,Petrol,2.0L,39.8 mpg,6.1,Automatic,,164,3 doors,4 seats,195
+AUDI,TT,Used,13499,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,13490,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,13995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,8995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10495,2006,Convertible,Diesel,2.0L,51.4 mpg,7.7,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,11400,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10795,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10790,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,10900,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,10975,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10900,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,
+AUDI,TT,Used,10899,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,10899,2006,Coupe,Diesel,2.0L,51.4 mpg,7.7,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10795,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10750,2006,Convertible,Diesel,2.0L,50.4 mpg,7.7,Automatic,quattro,144,2 doors,2 seats,
+AUDI,TT,Used,10750,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,10745,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,10690,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,10990,2006,Coupe,Petrol,2.0L,39.2 mpg,5.6,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,10490,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,8448,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,10500,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10500,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10500,2006,Coupe,Petrol,2.0L,42.8 mpg,6.0,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10500,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10499,2006,Coupe,Petrol,2.0L,39.2 mpg,6.2,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,10500,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10495,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,2 seats,540
+AUDI,TT,Used,10490,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,10490,2006,Coupe,Petrol,2.0L,42.8 mpg,6.1,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10495,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,10495,2006,Convertible,Diesel,2.0L,51.4 mpg,7.7,Manual,,144,2 doors,2 seats,155
+AUDI,TT,Used,10300,2010,Coupe,Diesel,2.0L,,,Manual,,,2 doors,,
+AUDI,TT,Used,10488,2006,Coupe,Petrol,2.0L,39.2 mpg,6.2,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,10430,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10299,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,10795,2006,Coupe,Diesel,2.0L,53.3 mpg,7.6,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10297,2006,Coupe,Petrol,2.0L,39.2 mpg,5.6,Automatic,quattro,169,3 doors,4 seats,
+AUDI,TT,Used,10200,2006,Coupe,Petrol,1.8L,44.1 mpg,7.3,Manual,,149,3 doors,4 seats,155
+AUDI,TT,Used,10190,2006,Coupe,Petrol,1.8L,44.1 mpg,7.2,Automatic,,147,3 doors,4 seats,155
+AUDI,TT,Used,10000,2006,Convertible,Diesel,2.0L,51.4 mpg,7.8,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,10000,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,10297,2006,Coupe,Petrol,2.0L,39.2 mpg,5.6,Automatic,quattro,169,3 doors,4 seats,
+AUDI,TT,Used,10250,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,10190,2006,Coupe,Petrol,1.8L,44.1 mpg,7.2,Automatic,,147,3 doors,4 seats,155
+AUDI,TT,Used,10195,2006,Coupe,Petrol,2.0L,42.8 mpg,6.2,Manual,,154,3 doors,4 seats,195
+AUDI,TT,Used,10000,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,10000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.2,Automatic,quattro,181,3 doors,4 seats,250
+AUDI,TT,Used,10990,2006,Coupe,Petrol,2.0L,39.2 mpg,5.6,Automatic,quattro,169,3 doors,4 seats,230
+AUDI,TT,Used,6495,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6750,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6287,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,8995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,
+AUDI,TT,Used,6288,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6250,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,6250,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,7480,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6250,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6250,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,6200,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6285,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6200,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,7000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6650,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,6690,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,6595,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,7695,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,6688,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7695,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7650,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6595,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,2 seats,540
+AUDI,TT,Used,7695,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7695,2006,Convertible,Petrol,1.8L,43.5 mpg,7.5,Manual,,152,2 doors,2 seats,
+AUDI,TT,Used,7695,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,7689,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7690,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,7650,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7690,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,7591,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,7950,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6489,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,7572,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,6190,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6190,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6047,2010,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,6050,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,6150,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6000,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,6000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6991,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,6557,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6557,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6500,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6500,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,6500,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,6500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6250,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,6920,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,6490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,
+AUDI,TT,Used,6500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6395,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,6295,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,6200,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,6195,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6190,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,7650,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7550,2010,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,7500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,7500,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,8000,2006,Coupe,Diesel,2.0L,51.4 mpg,7.5,Automatic,quattro,144,3 doors,4 seats,155
+AUDI,TT,Used,7500,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,7999,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,7950,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6999,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,6995,1999,Convertible,Petrol,3.2L,26.4 mpg,6.7,Manual,quattro,257,2 doors,2 seats,315
+AUDI,TT,Used,6992,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,6950,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,6750,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,6748,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,2 seats,540
+AUDI,TT,Used,6677,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,
+AUDI,TT,Used,6500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7995,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,7995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7990,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7980,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,,144,2 doors,2 seats,
+AUDI,TT,Used,7995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.2,Automatic,quattro,181,3 doors,4 seats,250
+AUDI,TT,Used,7795,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,7700,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,7595,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,7950,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,7695,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,8959,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,10500,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,8500,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,8500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,8500,2006,Convertible,Petrol,1.8L,40.9 mpg,7.4,Manual,,159,2 doors,2 seats,195
+AUDI,TT,Used,8984,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,quattro,183,3 doors,4 seats,250
+AUDI,TT,Used,8529,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,9000,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,8680,2006,Coupe,Petrol,2.0L,,6.4,Automatic,,164,3 doors,4 seats,195
+AUDI,TT,Used,8995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,8959,2006,Convertible,Petrol,2.0L,42.2 mpg,6.2,Manual,,156,2 doors,2 seats,195
+AUDI,TT,Used,4395,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4990,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4800,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,4900,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,5 seats,540
+AUDI,TT,Used,5000,1999,Coupe,Petrol,1.8L,34.4 mpg,7.4,Manual,,221,3 doors,4 seats,
+AUDI,TT,Used,5000,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,
+AUDI,TT,Used,5000,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,1999,Convertible,Petrol,3.2L,28.2 mpg,6.6,Automatic,quattro,240,2 doors,2 seats,315
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4999,1999,Coupe,Petrol,1.8L,29.7 mpg,7.5,Manual,quattro,228,3 doors,4 seats,540
+AUDI,TT,Used,4995,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,4999,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,4995,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4995,1999,Convertible,Petrol,1.8L,29.4 mpg,8.2,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,1999,Convertible,Petrol,3.2L,28.2 mpg,6.6,Automatic,quattro,240,2 doors,2 seats,315
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4995,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4990,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4990,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,4990,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4989,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,540
+AUDI,TT,Used,4989,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4980,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,4965,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4950,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4950,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5495,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4979,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,
+AUDI,TT,Used,4499,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,4495,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4490,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4495,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5250,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,221,3 doors,4 seats,315
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5495,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5495,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,5495,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5495,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4700,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4950,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,4950,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4900,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4890,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4900,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4890,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4850,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4850,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5494,2006,Convertible,Diesel,2.0L,51.3 mpg,7.7,Manual,quattro,144,2 doors,2 seats,155
+AUDI,TT,Used,5490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5490,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,5490,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5490,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4490,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4395,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4489,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,4450,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4295,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4400,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4350,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4795,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4717,2010,Convertible,Petrol,2.0L,,,Manual,,,2 doors,,
+AUDI,TT,Used,4750,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,540
+AUDI,TT,Used,4700,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4700,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5490,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5250,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,221,3 doors,4 seats,315
+AUDI,TT,Used,5489,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5489,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,5449,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5444,1999,Coupe,Petrol,1.8L,29.7 mpg,7.5,Manual,quattro,228,3 doors,4 seats,540
+AUDI,TT,Used,5250,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,221,3 doors,4 seats,315
+AUDI,TT,Used,5489,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,5400,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5390,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5350,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,5300,2006,Convertible,Petrol,3.2L,29.7 mpg,5.9,Automatic,quattro,227,2 doors,2 seats,540
+AUDI,TT,Used,5300,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5400,2006,Coupe,Petrol,2.0L,,6.4,Automatic,,164,3 doors,4 seats,195
+AUDI,TT,Used,5299,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5295,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,540
+AUDI,TT,Used,5295,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5299,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,4295,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,5295,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4000,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4250,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4290,1999,Coupe,Petrol,1.8L,31.4 mpg,7.4,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,4290,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4250,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4250,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,
+AUDI,TT,Used,4250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5290,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5250,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,540
+AUDI,TT,Used,5250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5281,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,5249,2006,Coupe,Diesel,2.0L,53.3 mpg,7.5,Manual,quattro,139,3 doors,4 seats,140
+AUDI,TT,Used,5250,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5245,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,2 seats,540
+AUDI,TT,Used,5200,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4999,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,4695,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4695,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4695,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,144,3 doors,4 seats,315
+AUDI,TT,Used,4695,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4690,1999,Convertible,Petrol,1.8L,34.0 mpg,8.2,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,4599,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4500,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4111,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4000,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4100,2006,Coupe,Petrol,2.0L,36.7 mpg,6.4,Automatic,,183,3 doors,4 seats,250
+AUDI,TT,Used,4070,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4000,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,4493,2004,Coupe,Petrol,3.2L,,,Automatic,,,,,
+AUDI,TT,Used,4395,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5195,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,4480,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5195,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5195,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,2006,Convertible,Petrol,3.2L,27.2 mpg,6.1,Manual,quattro,250,2 doors,5 seats,540
+AUDI,TT,Used,5037,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,2006,Coupe,Petrol,3.2L,27.4 mpg,5.9,Manual,quattro,247,3 doors,4 seats,
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4500,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4500,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,4999,2006,Convertible,Petrol,1.8L,43.5 mpg,7.4,Manual,,152,2 doors,2 seats,195
+AUDI,TT,Used,4500,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,4895,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,4900,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,
+AUDI,TT,Used,4750,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,6558,2006,Convertible,Petrol,2.0L,36.2 mpg,6.7,Manual,,186,2 doors,2 seats,290
+AUDI,TT,Used,5250,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,221,3 doors,4 seats,315
+AUDI,TT,Used,4590,2006,Convertible,Petrol,2.0L,36.2 mpg,6.5,Automatic,,186,2 doors,2 seats,290
+AUDI,TT,Used,5000,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5000,1999,Convertible,Petrol,3.2L,28.2 mpg,6.6,Automatic,quattro,240,2 doors,2 seats,315
+AUDI,TT,Used,5000,2006,Coupe,Petrol,3.2L,30.1 mpg,5.7,Automatic,quattro,224,3 doors,4 seats,315
+AUDI,TT,Used,5000,2006,Coupe,Petrol,2.0L,36.7 mpg,6.6,Manual,,183,3 doors,4 seats,250
+AUDI,TT,Used,5250,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,221,3 doors,4 seats,315
+AUDI,TT,Used,2000,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2000,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1700,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1800,1999,Coupe,Petrol,1.8L,30.1 mpg,5.9,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1995,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,1795,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,2995,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,2990,1999,Coupe,Petrol,1.8L,30.7 mpg,8.4,Automatic,,218,3 doors,4 seats,315
+AUDI,TT,Used,2995,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2995,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2995,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2994,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2990,1999,Convertible,Petrol,1.8L,34.0 mpg,8.2,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2995,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2990,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2990,1999,Coupe,Petrol,1.8L,30.7 mpg,8.4,Automatic,,218,3 doors,4 seats,315
+AUDI,TT,Used,2989,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2950,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2900,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,
+AUDI,TT,Used,2895,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2895,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2850,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2812,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,3250,1999,Coupe,Petrol,1.8L,34.4 mpg,7.4,Manual,,221,3 doors,4 seats,290
+AUDI,TT,Used,3200,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,
+AUDI,TT,Used,3225,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,3195,1999,Coupe,Petrol,1.8L,30.7 mpg,7.7,Automatic,,144,3 doors,4 seats,315
+AUDI,TT,Used,1990,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1950,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,1950,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1897,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,1895,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1890,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1875,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2495,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2500,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2490,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,2490,1999,Coupe,Petrol,1.8L,29.7 mpg,7.5,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2495,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2490,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2490,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2488,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2488,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2480,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2450,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2440,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2450,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2295,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2400,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2295,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,2375,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2395,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2795,2003,Convertible,Petrol,1.8L,,,Manual,,,2 doors,,
+AUDI,TT,Used,2295,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2785,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2758,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2795,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2750,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2750,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,1790,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2750,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,1795,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,1790,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2995,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1786,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2695,1999,Convertible,Petrol,1.8L,29.4 mpg,8.2,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,2795,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,
+AUDI,TT,Used,2750,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2695,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2690,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2690,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,2295,2003,Convertible,Petrol,1.8L,,,Manual,,,,,
+AUDI,TT,Used,2650,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2680,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,
+AUDI,TT,Used,2295,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2250,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2250,1999,Convertible,Petrol,1.8L,34.0 mpg,8.2,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2250,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2250,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2200,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2250,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,226,3 doors,4 seats,315
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1795,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2000,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1995,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,2100,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2190,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2195,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,2195,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,2195,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2090,1999,Coupe,Petrol,1.8L,31.4 mpg,7.4,Manual,quattro,216,3 doors,4 seats,
+AUDI,TT,Used,2495,1999,Convertible,Petrol,1.8L,29.4 mpg,8.2,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,2595,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,2000,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2195,1999,Coupe,Petrol,1.8L,31.4 mpg,7.4,Manual,quattro,0,3 doors,4 seats,
+AUDI,TT,Used,2500,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2500,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,2500,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,2999,1999,Convertible,Petrol,1.8L,29.7 mpg,6.9,Manual,quattro,228,2 doors,2 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,30.1 mpg,6.6,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,34.4 mpg,7.4,Manual,,221,3 doors,4 seats,290
+AUDI,TT,Used,3000,1999,Coupe,Petrol,3.2L,26.6 mpg,6.5,Manual,quattro,254,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,3200,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,3490,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,3000,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,290
+AUDI,TT,Used,1000,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,999,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,315
+AUDI,TT,Used,1495,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,1500,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,226,3 doors,4 seats,315
+AUDI,TT,Used,1499,1999,Coupe,Petrol,3.2L,28.5 mpg,6.4,Automatic,quattro,238,3 doors,4 seats,315
+AUDI,TT,Used,1495,1999,Coupe,Petrol,1.8L,29.7 mpg,7.9,Manual,quattro,228,3 doors,4 seats,
+AUDI,TT,Used,1495,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,1495,1999,Convertible,Petrol,1.8L,34.0 mpg,8.9,Manual,,199,2 doors,2 seats,290
+AUDI,TT,Used,1495,1999,Coupe,Petrol,1.8L,34.4 mpg,7.8,Manual,,194,3 doors,4 seats,
+AUDI,TT,Used,1400,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,315
+AUDI,TT,Used,1495,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT,Used,1200,1999,Coupe,Petrol,1.8L,34.4 mpg,7.4,Manual,,221,3 doors,4 seats,290
+AUDI,TT,Used,1495,1999,Coupe,Petrol,1.8L,29.7 mpg,6.4,Manual,quattro,226,3 doors,4 seats,
+AUDI,TT RS,Used,26495,2009,Convertible,Petrol,2.5L,31.0 mpg,4.4,Manual,quattro,212,2 doors,2 seats,315
+AUDI,TT RS,Used,28247,2009,Convertible,Petrol,2.5L,32.8 mpg,4.4,Automatic,quattro,199,2 doors,2 seats,290
+AUDI,TT RS,Used,40900,2016,Convertible,Petrol,2.5L,34.0 mpg,3.8,Automatic,quattro,189,2 doors,2 seats,290
+AUDI,TT RS,Used,39999,2016,Coupe,Petrol,2.5L,34.4 mpg,3.7,Automatic,quattro,187,3 doors,4 seats,290
+AUDI,TT RS,Used,24990,2009,Coupe,Petrol,2.5L,33.2 mpg,4.3,Automatic,quattro,197,3 doors,4 seats,290
+AUDI,TT RS,Used,23663,2009,Coupe,Petrol,2.5L,31.4 mpg,4.3,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,22500,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,22995,2009,Convertible,Petrol,2.5L,32.8 mpg,4.4,Automatic,quattro,199,2 doors,2 seats,290
+AUDI,TT RS,Used,23980,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,290
+AUDI,TT RS,Used,26994,2009,Coupe,Petrol,2.5L,31.4 mpg,4.3,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,25500,2009,Coupe,Petrol,2.5L,33.2 mpg,4.1,Automatic,quattro,197,3 doors,4 seats,290
+AUDI,TT RS,Used,26495,2009,Convertible,Petrol,2.5L,31.0 mpg,4.4,Manual,quattro,212,2 doors,2 seats,315
+AUDI,TT RS,Used,26990,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,16980,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,16980,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,17450,2009,Coupe,Petrol,2.5L,30.7 mpg,4.6,Manual,quattro,214,3 doors,4 seats,315
+AUDI,TT RS,Used,16950,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,16795,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,16980,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,17750,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,16311,2009,Convertible,Petrol,2.5L,31.0 mpg,4.6,Manual,quattro,212,2 doors,2 seats,315
+AUDI,TT RS,Used,16950,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,16795,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,16311,2009,Convertible,Petrol,2.5L,31.0 mpg,4.6,Manual,quattro,212,2 doors,2 seats,315
+AUDI,TT RS,Used,16500,2009,Coupe,Petrol,2.5L,30.7 mpg,4.6,Manual,quattro,214,3 doors,4 seats,315
+AUDI,TT RS,Used,16980,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,21995,2012,Coupe,Petrol,2.5L,,,Manual,,,2 doors,,
+AUDI,TT RS,Used,20999,2009,Coupe,Petrol,2.5L,,,Automatic,quattro,214,3 doors,4 seats,290
+AUDI,TT RS,Used,21350,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,315
+AUDI,TT RS,Used,21000,2009,Coupe,Petrol,2.5L,33.2 mpg,4.3,Automatic,quattro,,3 doors,4 seats,
+AUDI,TT RS,Used,20750,2009,Coupe,Petrol,2.5L,31.4 mpg,4.5,Manual,quattro,209,3 doors,4 seats,290
+AUDI,TT RS,Used,18990,2009,Convertible,Petrol,2.5L,31.0 mpg,4.6,Manual,quattro,212,2 doors,2 seats,315
+AUDI,TT RS,Used,18495,2009,Coupe,Petrol,2.5L,30.7 mpg,4.6,Manual,quattro,214,3 doors,4 seats,315
+AUDI,TT RS,Used,18249,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,TT RS,Used,18990,2009,Convertible,Petrol,2.5L,29.7 mpg,4.7,Manual,quattro,221,2 doors,2 seats,315
+AUDI,S7,Used,40000,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,4 seats,140
+AUDI,S7,Used,32980,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,5 seats,315
+AUDI,S7,Used,38950,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,4 seats,140
+AUDI,S7,Used,33995,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,5 seats,315
+AUDI,S7,Used,33790,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,5 seats,315
+AUDI,S7,Used,33000,2014,Hatchback,Petrol,4.0L,30.4 mpg,4.6,Automatic,quattro,215,5 doors,4 seats,315
+AUDI,S7,Used,31990,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,5 seats,315
+AUDI,S7,Used,32990,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,5 seats,315
+AUDI,S7,Used,40000,2014,Hatchback,Petrol,4.0L,29.7 mpg,4.6,Automatic,quattro,220,5 doors,4 seats,140
+AUDI,S7,Used,27900,2014,Hatchback,Petrol,4.0L,30.4 mpg,4.6,Automatic,quattro,225,5 doors,4 seats,315
+AUDI,S7,Used,27900,2014,Hatchback,Petrol,4.0L,30.4 mpg,4.6,Automatic,quattro,225,5 doors,4 seats,315
+AUDI,S7,Used,26950,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S7,Used,26500,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S7,Used,27500,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S7,Used,27500,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S7,Used,25920,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,4 seats,315
+AUDI,S7,Used,25995,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,4 seats,315
+AUDI,S7,Used,24995,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S7,Used,23990,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,
+AUDI,S8,Used,33750,2013,Saloon,Petrol,4.0L,30.1 mpg,4.1,Automatic,quattro,216,4 doors,5 seats,315
+AUDI,S8,Used,34500,2013,Saloon,Petrol,4.0L,28.2 mpg,3.8,Automatic,quattro,231,4 doors,5 seats,
+AUDI,S8,Used,33989,2013,Saloon,Petrol,4.0L,30.1 mpg,4.1,Automatic,quattro,216,4 doors,5 seats,315
+AUDI,S8,Used,33750,2013,Saloon,Petrol,4.0L,30.1 mpg,4.1,Automatic,quattro,216,4 doors,5 seats,315
+AUDI,S8,Used,31450,2013,Saloon,Petrol,4.0L,30.1 mpg,4.1,Automatic,quattro,216,4 doors,5 seats,315
+AUDI,S8,Used,33000,2013,Saloon,Petrol,4.0L,30.1 mpg,4.1,Automatic,quattro,216,4 doors,5 seats,315
+AUDI,S7,Used,24690,2012,Hatchback,Petrol,4.0L,,,Automatic,,,5 doors,,
+AUDI,S7,Used,24289,2012,Hatchback,Petrol,4.0L,29.4 mpg,4.7,Automatic,quattro,225,5 doors,5 seats,315
+AUDI,S8,Used,27995,2010,Saloon,Petrol,4.0L,28.0 mpg,4.2,Automatic,quattro,235,4 doors,4 seats,540
+AUDI,S8,Used,17995,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,14495,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,13990,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,10995,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,11950,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,10990,2006,Saloon,Petrol,5.2L,20.0 mpg,5.0,Automatic,quattro,321,4 doors,5 seats,555
+AUDI,S8,Used,10590,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,11995,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,10499,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,10500,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,
+AUDI,S8,Used,11900,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,9495,2006,Saloon,Petrol,5.2L,20.0 mpg,5.0,Automatic,quattro,321,4 doors,5 seats,555
+AUDI,S8,Used,9950,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S8,Used,3995,1997,Saloon,Petrol,4.2L,,6.6,Automatic,quattro,338,4 doors,5 seats,315
+AUDI,S8,Used,8489,2006,Saloon,Petrol,5.2L,21.4 mpg,5.1,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S6 SALOON,Nearly New,39900,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,140
+AUDI,S6 AVANT,Nearly New,49900,2014,Estate,Petrol,4.0L,30.1 mpg,4.6,Automatic,quattro,219,5 doors,5 seats,140
+AUDI,S6 SALOON,Used,24500,2012,Saloon,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,225,4 doors,5 seats,315
+AUDI,S6 SALOON,Used,27750,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,315
+AUDI,S6 SALOON,Used,29990,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,315
+AUDI,S6 SALOON,Used,24995,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,315
+AUDI,S6 SALOON,Used,23990,2012,Saloon,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,225,4 doors,5 seats,315
+AUDI,S6 SALOON,Used,22500,2014,Saloon,Petrol,4.0L,,,Automatic,,,4 doors,,
+AUDI,S6 SALOON,Used,22850,2012,Saloon,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,225,4 doors,5 seats,315
+AUDI,S6 SALOON,Nearly New,39900,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,140
+AUDI,S6 SALOON,Used,39995,2014,Saloon,Petrol,4.0L,30.7 mpg,4.4,Automatic,quattro,214,4 doors,5 seats,140
+AUDI,S6 AVANT,Used,32950,2014,Estate,Petrol,4.0L,30.1 mpg,4.6,Automatic,quattro,219,5 doors,5 seats,
+AUDI,S6 AVANT,Nearly New,44500,2014,Estate,Petrol,4.0L,30.1 mpg,4.6,Automatic,quattro,219,5 doors,5 seats,140
+AUDI,S6 AVANT,Used,43495,2014,Estate,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S6 AVANT,Used,42990,2014,Estate,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,224,5 doors,5 seats,140
+AUDI,S6 AVANT,Used,25995,2012,Estate,Petrol,4.0L,29.1 mpg,4.7,Automatic,quattro,226,5 doors,5 seats,
+AUDI,S6 AVANT,Used,33850,2014,Estate,Petrol,4.0L,30.1 mpg,4.6,Automatic,quattro,219,5 doors,5 seats,315
+AUDI,S6 AVANT,Used,44000,2014,Estate,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,224,5 doors,5 seats,140
+AUDI,S6 AVANT,Used,9950,2006,Estate,Petrol,5.2L,21.7 mpg,5.3,Automatic,quattro,309,5 doors,5 seats,555
+AUDI,S6 AVANT,Used,14995,2006,Estate,Petrol,5.2L,22.4 mpg,5.3,Automatic,quattro,299,5 doors,5 seats,555
+AUDI,S6 SALOON,Used,22500,2014,Saloon,Petrol,4.0L,,,Automatic,,,4 doors,,
+AUDI,S6 AVANT,Used,14995,2007,Estate,Petrol,5.2L,,,Automatic,,,,,
+AUDI,S6 SALOON,Used,22000,2012,Saloon,Petrol,4.0L,29.4 mpg,4.6,Automatic,quattro,225,4 doors,5 seats,315
+AUDI,S6 AVANT,Used,14450,2006,Estate,Petrol,5.2L,22.4 mpg,5.3,Automatic,quattro,299,5 doors,5 seats,555
+AUDI,S6 SALOON,Used,10495,2006,Saloon,Petrol,5.2L,21.1 mpg,5.2,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S6 SALOON,Used,6990,2006,Saloon,Petrol,5.2L,21.1 mpg,5.2,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S6 SALOON,Used,9750,2006,Saloon,Petrol,5.2L,21.1 mpg,5.2,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S5,New,55010,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,
+AUDI,S4 CABRIOLET,Used,10489,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 AVANT,New,50826,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S5,New,55010,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,
+AUDI,S4 CABRIOLET,Used,10390,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 AVANT,New,50826,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41990,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,35750,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,39995,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,39999,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,39000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,39900,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,37900,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,37500,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,42210,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,38495,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,38994,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41990,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,42881,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40881,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40250,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,40995,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,40201,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,42210,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41990,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41990,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,38950,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,36000,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,36450,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,41750,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Nearly New,38950,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,36500,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,35800,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,37500,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,40000,2016,Estate,Petrol,3.0L,35.8 mpg,4.7,Automatic,quattro,179,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,35750,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,35990,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,33950,2016,Estate,Petrol,3.0L,37.7 mpg,4.7,Automatic,quattro,171,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,33950,2016,Estate,Petrol,3.0L,37.7 mpg,4.7,Automatic,quattro,171,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,33500,2016,Estate,Petrol,3.0L,37.2 mpg,4.7,Automatic,quattro,175,5 doors,5 seats,140
+AUDI,S4 AVANT,Used,21500,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,20990,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,18995,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,19790,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,
+AUDI,S4 AVANT,Used,19000,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,
+AUDI,S4 AVANT,Used,18995,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,20979,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,20500,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,21990,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,250
+AUDI,S4 AVANT,Used,18591,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,17996,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,17995,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,17995,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,17000,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,15995,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,17990,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,16995,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,14990,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,15990,2008,Estate,Petrol,3.0L,33.6 mpg,5.1,Automatic,quattro,197,5 doors,5 seats,290
+AUDI,S4 AVANT,Used,14995,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,15490,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,13991,2008,Estate,Petrol,3.0L,29.4 mpg,5.4,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,13100,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,13432,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,12357,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,14950,2008,Estate,Petrol,3.0L,29.4 mpg,5.4,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,12000,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,
+AUDI,S4 AVANT,Used,14170,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,14750,2008,Estate,Petrol,3.0L,29.4 mpg,5.4,Automatic,quattro,224,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,12000,2008,Estate,Petrol,3.0L,29.4 mpg,5.3,Automatic,quattro,224,5 doors,5 seats,
+AUDI,S4 AVANT,Used,8990,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,9450,2004,Estate,Petrol,4.2L,20.9 mpg,5.8,Manual,quattro,324,5 doors,5 seats,555
+AUDI,S4 AVANT,Used,8888,1998,Estate,Petrol,2.7L,24.6 mpg,5.7,Manual,quattro,271,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,8595,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,555
+AUDI,S4 AVANT,Used,9450,2004,Estate,Petrol,4.2L,20.9 mpg,5.8,Manual,quattro,324,5 doors,5 seats,555
+AUDI,S4 AVANT,Used,6499,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,6250,2002,Estate,Petrol,4.2L,21.1 mpg,5.8,Manual,quattro,322,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,6900,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,5500,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,555
+AUDI,S4 AVANT,Used,5500,2002,Estate,Petrol,4.2L,21.1 mpg,5.8,Manual,quattro,322,5 doors,5 seats,315
+AUDI,S4 AVANT,Used,4250,2002,Estate,Petrol,4.2L,22.9 mpg,5.9,Automatic,quattro,295,5 doors,5 seats,315
+AUDI,S5,Used,33430,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,Nearly New,42000,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S4 AVANT,Used,5500,2004,Estate,Petrol,4.2L,22.8 mpg,5.8,Automatic,quattro,298,5 doors,5 seats,555
+AUDI,S5,Nearly New,41995,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,140
+AUDI,S5,Nearly New,41995,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,New,50800,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,,3 doors,4 seats,
+AUDI,S5,Nearly New,41050,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,140
+AUDI,S5,Nearly New,41139,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,Nearly New,40000,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,140
+AUDI,S5,Nearly New,40000,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,Nearly New,42995,2016,Hatchback,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,5 doors,4 seats,140
+AUDI,S5,Nearly New,48995,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,Nearly New,42000,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,3 doors,4 seats,140
+AUDI,S5,New,49999,2016,Coupe,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,,3 doors,4 seats,
+AUDI,S5,Nearly New,46000,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,140
+AUDI,S5,New,48955,2016,Hatchback,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,,5 doors,4 seats,
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,24995,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,21480,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,22500,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,250
+AUDI,S5,Used,22495,2015,Coupe,Petrol,3.0L,,,Automatic,,178,2 doors,4 seats,250
+AUDI,S5,Used,25000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,27500,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,27000,2014,Convertible,Petrol,3.0L,34.9 mpg,5.4,Automatic,quattro,189,2 doors,4 seats,290
+AUDI,S5,Used,27500,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,23495,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,22995,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,
+AUDI,S5,Used,22995,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,22975,2011,Hatchback,Petrol,3.0L,34.9 mpg,5.1,Automatic,quattro,190,5 doors,4 seats,290
+AUDI,S5,Used,24000,2011,Hatchback,Petrol,3.0L,36.7 mpg,5.1,Automatic,quattro,179,5 doors,4 seats,250
+AUDI,S5,Used,22995,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,24995,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,22750,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,25000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,24000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,24995,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,22500,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,250
+AUDI,S5,Used,23950,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,24995,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,22000,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,,3 doors,4 seats,
+AUDI,S5,Used,21950,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,250
+AUDI,S5,Used,21995,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,21000,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,20990,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,20989,2014,Convertible,Petrol,3.0L,35.8 mpg,5.4,Automatic,quattro,,2 doors,4 seats,
+AUDI,S5,Used,27995,2015,Convertible,Petrol,3.0L,,,Automatic,,184,2 doors,4 seats,250
+AUDI,S5,Used,29990,2016,Convertible,Petrol,3.0L,35.3 mpg,4.9,Automatic,quattro,181,2 doors,4 seats,140
+AUDI,S5,Used,22750,2011,Hatchback,Petrol,3.0L,34.9 mpg,5.1,Automatic,quattro,190,5 doors,4 seats,290
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,20950,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,20000,2015,Coupe,Petrol,3.0L,,,Automatic,,178,2 doors,4 seats,250
+AUDI,S5,Used,20950,2009,Convertible,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,28990,2016,Hatchback,Petrol,3.0L,36.7 mpg,4.5,Automatic,quattro,174,5 doors,4 seats,140
+AUDI,S5,Used,27500,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,27500,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,19995,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,19995,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,
+AUDI,S5,Used,28495,2016,Coupe,Petrol,3.0L,38.2 mpg,4.7,Automatic,quattro,170,3 doors,4 seats,
+AUDI,S5,Used,19668,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,19850,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,19995,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,19950,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,20000,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,250
+AUDI,S5,Used,26750,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,26250,2016,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,
+AUDI,S5,Used,26587,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,26995,2016,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,26798,2014,Convertible,Petrol,3.0L,34.9 mpg,5.4,Automatic,quattro,189,2 doors,4 seats,290
+AUDI,S5,Used,26750,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,26000,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,26950,2012,Coupe,Petrol,3.0L,35.8 mpg,4.9,Automatic,quattro,184,3 doors,4 seats,250
+AUDI,S5,Used,25890,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,25000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,20750,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,25000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,20000,2015,Coupe,Petrol,3.0L,,,Automatic,,178,2 doors,4 seats,250
+AUDI,S5,Used,21000,2015,Hatchback,Petrol,3.0L,,,Automatic,,,5 doors,,
+AUDI,S5,Used,20500,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,20795,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,
+AUDI,S5,Used,21995,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,17495,2007,Coupe,Petrol,4.2L,23.3 mpg,5.1,Manual,quattro,288,3 doors,4 seats,540
+AUDI,S5,Used,20000,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,250
+AUDI,S5,Used,17995,2011,Hatchback,Petrol,3.0L,33.2 mpg,5.4,Automatic,quattro,199,5 doors,4 seats,290
+AUDI,S5,Used,17995,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,16490,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,15980,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,15250,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,15000,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,15980,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,15495,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,16490,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,16495,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,16494,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,3 doors,4 seats,
+AUDI,S5,Used,16489,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,16400,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,16250,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,21000,2011,Hatchback,Petrol,3.0L,35.8 mpg,5.1,Automatic,quattro,184,5 doors,4 seats,250
+AUDI,S5,Used,16950,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,16495,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,
+AUDI,S5,Used,17995,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,17989,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,17982,2009,Convertible,Petrol,3.0L,,,Automatic,quattro,199,2 doors,4 seats,290
+AUDI,S5,Used,17490,2011,Hatchback,Petrol,3.0L,34.9 mpg,5.1,Automatic,quattro,190,5 doors,4 seats,290
+AUDI,S5,Used,17450,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,17495,2007,Coupe,Petrol,4.2L,23.3 mpg,5.1,Manual,quattro,288,3 doors,4 seats,540
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13490,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,15000,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,14000,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13995,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13995,2009,Convertible,Petrol,3.0L,29.1 mpg,5.6,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13995,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13992,2007,Coupe,Petrol,4.2L,23.3 mpg,5.1,Manual,quattro,288,3 doors,4 seats,540
+AUDI,S5,Used,14995,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,0,3 doors,4 seats,140
+AUDI,S5,Used,13991,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,3 doors,4 seats,540
+AUDI,S5,Used,14995,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14995,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,
+AUDI,S5,Used,14995,2007,Coupe,Petrol,4.2L,23.3 mpg,5.1,Manual,quattro,288,3 doors,4 seats,555
+AUDI,S5,Used,14990,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13990,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,
+AUDI,S5,Used,13900,2012,Coupe,Petrol,3.0L,34.9 mpg,4.9,Automatic,quattro,190,3 doors,4 seats,290
+AUDI,S5,Used,13990,2011,Hatchback,Petrol,3.0L,34.9 mpg,5.1,Automatic,quattro,190,5 doors,4 seats,290
+AUDI,S5,Used,13490,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13472,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,13400,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,
+AUDI,S5,Used,13290,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14000,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14495,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14500,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,3 doors,4 seats,540
+AUDI,S5,Used,14750,2007,Coupe,Petrol,4.2L,23.3 mpg,5.1,Manual,quattro,288,3 doors,4 seats,
+AUDI,S5,Used,14480,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14000,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14000,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,14900,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,
+AUDI,S5,Used,9995,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9991,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9995,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,9995,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,10000,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,9500,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9500,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,10900,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,10995,2007,Coupe,Petrol,4.2L,22.8 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,10450,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,10250,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,10000,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,10980,2007,Coupe,Petrol,4.2L,22.8 mpg,5.1,Manual,quattro,288,3 doors,4 seats,555
+AUDI,S5,Used,9975,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,10350,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,10190,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,10250,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,10940,2007,Coupe,Petrol,4.2L,22.8 mpg,5.1,Manual,quattro,288,3 doors,4 seats,555
+AUDI,S5,Used,14950,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,12500,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,
+AUDI,S5,Used,12990,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,12750,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,12671,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,12500,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,12430,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,12495,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,12000,2010,Hatchback,Petrol,3.0L,30.1 mpg,5.4,Automatic,quattro,219,5 doors,4 seats,315
+AUDI,S5,Used,12195,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,
+AUDI,S5,Used,9490,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9000,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,7990,2007,Coupe,Petrol,4.2L,22.8 mpg,5.1,Manual,quattro,288,3 doors,4 seats,555
+AUDI,S5,Used,12495,2009,Convertible,Petrol,3.0L,29.1 mpg,5.4,Automatic,quattro,224,2 doors,4 seats,315
+AUDI,S5,Used,6995,2007,Coupe,Petrol,4.2L,26.2 mpg,5.4,Automatic,quattro,256,2 doors,4 seats,555
+AUDI,S5,Used,6995,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9500,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,7850,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,
+AUDI,S5,Used,9500,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,8795,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9350,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9490,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9250,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9000,2007,Coupe,Petrol,4.2L,22.7 mpg,5.1,Manual,quattro,298,3 doors,4 seats,555
+AUDI,S5,Used,9150,2007,Coupe,Petrol,4.2L,22.8 mpg,5.1,Manual,quattro,288,3 doors,4 seats,
+AUDI,S6 SALOON,Used,6950,2006,Saloon,Petrol,5.2L,21.1 mpg,5.2,Automatic,quattro,319,4 doors,5 seats,555
+AUDI,S4 CABRIOLET,Used,6950,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,7995,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,7195,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,6490,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,7500,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,5995,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,315
+AUDI,S4 CABRIOLET,Used,9495,2005,Convertible,Petrol,4.2L,20.5 mpg,5.9,Manual,quattro,331,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,6490,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,8990,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,7500,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,8945,2005,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,9495,2005,Convertible,Petrol,4.2L,20.5 mpg,5.9,Manual,quattro,331,2 doors,4 seats,555
+AUDI,S4 CABRIOLET,Used,4495,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,5750,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,4495,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,4995,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,4490,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,5000,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,4950,2004,Convertible,Petrol,4.2L,22.4 mpg,6.2,Automatic,quattro,302,2 doors,,315
+AUDI,S4 CABRIOLET,Used,5000,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,4975,2004,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,331,2 doors,5 seats,315
+AUDI,S4 CABRIOLET,Used,6850,2005,Convertible,Petrol,4.2L,20.3 mpg,5.9,Manual,quattro,334,2 doors,4 seats,315
+AUDI,RS7,Used,73999,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,64999,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,140
+AUDI,RS7,Used,64990,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,140
+AUDI,RS7,Used,53900,2015,Hatchback,Petrol,4.0L,,,Automatic,,221,5 doors,4 seats,315
+AUDI,RS7,Used,47990,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,
+AUDI,RS7,Used,49995,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,48000,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,49995,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,47990,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,
+AUDI,RS7,Used,47495,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,
+AUDI,RS7,Used,45950,2013,Hatchback,Petrol,4.0L,28.8 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,45950,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,
+AUDI,RS7,Used,52995,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,51495,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.7,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,50000,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,,5 doors,4 seats,
+AUDI,RS7,Used,44995,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,540
+AUDI,RS7,Used,41290,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,540
+AUDI,S3,Nearly New,33795,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,150,5 doors,5 seats,140
+AUDI,S3,Nearly New,37500,2019,Hatchback,Petrol,,,,Automatic,,,4 doors,,140
+AUDI,S3,Used,28950,2016,Saloon,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,151,4 doors,5 seats,
+AUDI,S3,Nearly New,35000,2019,Hatchback,Petrol,,,,Automatic,,158,4 doors,5 seats,140
+AUDI,S3,Nearly New,36990,2016,Saloon,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,151,4 doors,5 seats,140
+AUDI,S3,New,37771,2016,Saloon,Petrol,2.0L,,4.7,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,Nearly New,37000,2019,Hatchback,Petrol,,,,Automatic,,,4 doors,,140
+AUDI,S3,Used,29983,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,149,5 doors,5 seats,155
+AUDI,S3,New,39021,2016,Saloon,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,New,38901,2016,Saloon,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,New,38310,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,,5 doors,5 seats,
+AUDI,S3,New,37771,2016,Saloon,Petrol,2.0L,,4.7,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,Nearly New,35900,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,150,5 doors,5 seats,140
+AUDI,S3,Nearly New,35450,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,150,5 doors,5 seats,140
+AUDI,S3,Nearly New,39500,2019,Saloon,Petrol,,,,Automatic,,,4 doors,,
+AUDI,S3,Nearly New,38500,2019,Hatchback,Petrol,,,,Manual,,,4 doors,,140
+AUDI,S3,Nearly New,37000,2019,Hatchback,Petrol,,,,Automatic,,158,4 doors,5 seats,140
+AUDI,S3,Nearly New,37000,2019,Hatchback,Petrol,,,,Automatic,,158,4 doors,5 seats,140
+AUDI,S3,New,37771,2016,Saloon,Petrol,2.0L,,4.7,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,Nearly New,37000,2019,Hatchback,Petrol,,,,Automatic,,,4 doors,,140
+AUDI,S3,Nearly New,35000,2019,Hatchback,Petrol,,,,Automatic,,158,4 doors,5 seats,140
+AUDI,S3,Nearly New,37000,2019,Hatchback,Petrol,,,,Automatic,,,4 doors,,140
+AUDI,S3,Nearly New,35000,2019,Hatchback,Petrol,,,,Automatic,,,4 doors,,140
+AUDI,RS7,Used,38500,2013,Hatchback,Petrol,4.0L,28.8 mpg,3.9,Automatic,quattro,229,5 doors,4 seats,540
+AUDI,RS7,Used,43992,2015,Hatchback,Petrol,4.0L,,,Automatic,,221,5 doors,4 seats,315
+AUDI,RS7,Used,38490,2013,Hatchback,Petrol,4.0L,28.8 mpg,3.9,Automatic,quattro,229,5 doors,4 seats,540
+AUDI,RS7,Used,43505,2013,Hatchback,Petrol,4.0L,28.8 mpg,3.9,Automatic,quattro,229,5 doors,4 seats,540
+AUDI,RS7,Used,42950,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,315
+AUDI,RS7,Used,41889,2013,Hatchback,Petrol,4.0L,28.8 mpg,3.9,Automatic,quattro,229,5 doors,4 seats,
+AUDI,S3,New,41805,2016,Hatchback,Petrol,2.0L,40.9 mpg,4.7,Automatic,quattro,,5 doors,5 seats,
+AUDI,RS7,Used,41290,2013,Hatchback,Petrol,4.0L,29.7 mpg,3.9,Automatic,quattro,221,5 doors,4 seats,540
+AUDI,S3,New,43291,2016,Saloon,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,,4 doors,5 seats,
+AUDI,S3,New,43291,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,,5 doors,5 seats,
+AUDI,S3,Nearly New,42000,2019,Hatchback,Petrol,,,,Automatic,,158,4 doors,5 seats,140
+AUDI,S3,Nearly New,41000,2019,Hatchback,Petrol,2.0L,,,Automatic,,,5 doors,,140
+AUDI,S3,Nearly New,41000,2019,Saloon,Petrol,2.0L,,,Automatic,,,4 doors,,140
+AUDI,S3,New,41805,2016,Hatchback,Petrol,2.0L,40.9 mpg,4.7,Automatic,quattro,,5 doors,5 seats,
+AUDI,S3,Used,29983,2016,Hatchback,Petrol,2.0L,43.5 mpg,4.6,Automatic,quattro,149,5 doors,5 seats,155
